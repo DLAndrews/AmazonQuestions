@@ -232,6 +232,7 @@
 				CDE1F0251A9B1B4900E42B5D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
